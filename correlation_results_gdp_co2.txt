@@ -1,0 +1,120 @@
+             country  pearson_corr      p_value
+             Albania      0.785407 4.503330e-07
+           Argentina      0.976711 1.391763e-19
+             Armenia      0.807498 1.196348e-07
+           Australia      0.942467 2.278848e-14
+             Austria      0.434962 1.837007e-02
+          Azerbaijan     -0.157264 4.152285e-01
+             Bahrain      0.960978 1.347087e-16
+          Bangladesh      0.996990 1.582743e-31
+             Belarus     -0.114280 5.549987e-01
+             Belgium     -0.756115 2.096524e-06
+               Benin      0.981078 8.652899e-21
+             Bolivia      0.912915 5.140566e-12
+            Botswana      0.934017 1.378165e-13
+              Brazil      0.979473 2.573677e-20
+            Bulgaria     -0.474903 9.235060e-03
+        Burkina Faso      0.973704 7.042585e-19
+            Cambodia      0.947918 6.140892e-15
+            Cameroon      0.966526 1.755823e-17
+              Canada      0.850580 5.130438e-09
+               Chile      0.975763 2.371052e-19
+               China      0.986492 9.435306e-23
+            Colombia      0.871578 7.563639e-10
+          Costa Rica      0.916596 2.933669e-12
+       Cote d'Ivoire      0.885672 1.717126e-10
+             Croatia      0.458589 1.234763e-02
+              Cyprus      0.851928 4.577756e-09
+             Czechia     -0.825994 3.438563e-08
+             Denmark     -0.788857 3.699198e-07
+  Dominican Republic      0.866779 1.204995e-09
+             Ecuador      0.959269 2.378199e-16
+               Egypt      0.986172 1.291853e-22
+         El Salvador      0.832810 2.092745e-08
+             Estonia     -0.100874 6.026029e-01
+            Ethiopia      0.989452 3.405657e-24
+             Finland     -0.223454 2.439341e-01
+              France     -0.642728 1.700452e-04
+             Georgia      0.663990 8.590139e-05
+             Germany     -0.956959 4.940452e-16
+               Ghana      0.974934 3.716688e-19
+              Greece      0.561740 1.519319e-03
+           Guatemala      0.954581 1.006783e-15
+              Guinea      0.969578 4.916898e-18
+            Honduras      0.976425 1.637890e-19
+           Hong Kong      0.750249 2.781269e-06
+             Hungary     -0.834734 1.811737e-08
+               India      0.997182 6.518685e-32
+           Indonesia      0.979562 2.427695e-20
+                Iran      0.984103 8.389277e-22
+             Ireland      0.414697 2.530073e-02
+              Israel      0.747183 3.214348e-06
+               Italy     -0.120047 5.350694e-01
+             Jamaica      0.315771 9.517953e-02
+               Japan      0.278301 1.437869e-01
+              Jordan      0.969199 5.798627e-18
+          Kazakhstan      0.822881 4.283693e-08
+               Kenya      0.940162 3.819947e-14
+              Kuwait     -0.028265 8.842811e-01
+          Kyrgyzstan      0.677919 5.330834e-05
+                Laos      0.846829 7.004272e-09
+              Latvia     -0.108599 5.749596e-01
+           Lithuania     -0.133594 4.896371e-01
+          Luxembourg     -0.167758 3.843802e-01
+          Madagascar      0.896269 4.927385e-11
+              Malawi      0.886317 1.597126e-10
+            Malaysia      0.979635 2.314708e-20
+               Malta     -0.639707 1.865971e-04
+           Mauritius      0.968955 6.442039e-18
+              Mexico      0.933606 1.494880e-13
+            Mongolia      0.890940 9.380429e-11
+             Morocco      0.981647 5.748360e-21
+          Mozambique      0.865617 1.345224e-09
+             Namibia      0.954798 9.449152e-16
+               Nepal      0.902149 2.322858e-11
+         Netherlands     -0.293802 1.218761e-01
+         New Zealand      0.826895 3.224091e-08
+           Nicaragua      0.934605 1.225441e-13
+             Nigeria      0.845106 8.058569e-09
+              Norway      0.371954 1.560060e-01
+                Oman      0.989875 1.965880e-24
+            Pakistan      0.973116 9.463038e-19
+              Panama      0.961438 1.118954e-12
+            Paraguay      0.916735 2.871114e-12
+                Peru      0.936883 7.697127e-14
+         Philippines      0.957184 4.609205e-16
+              Poland     -0.614382 3.917018e-04
+            Portugal      0.375845 4.450445e-02
+               Qatar      0.957409 4.298332e-16
+             Romania     -0.751644 2.602278e-06
+              Russia     -0.057348 7.676227e-01
+              Rwanda      0.924280 8.334107e-13
+        Saudi Arabia      0.961376 1.175595e-16
+             Senegal      0.964056 4.523891e-17
+           Singapore     -0.155842 4.195116e-01
+            Slovakia     -0.794560 2.651136e-07
+            Slovenia      0.279804 1.415453e-01
+        South Africa      0.890371 1.002808e-10
+         South Korea      0.985398 2.683786e-22
+               Spain      0.479198 8.535583e-03
+           Sri Lanka      0.969790 4.479879e-18
+              Sweden     -0.901738 2.451968e-11
+         Switzerland     -0.673785 6.157891e-05
+              Taiwan      0.933066 1.662188e-13
+          Tajikistan      0.595617 6.522809e-04
+            Tanzania      0.991663 1.441304e-25
+            Thailand      0.968579 7.563116e-18
+                Togo      0.705694 1.901219e-05
+ Trinidad and Tobago      0.990035 1.586598e-24
+             Tunisia      0.989763 2.276702e-24
+              Turkey      0.987260 4.299702e-23
+              Uganda      0.992640 2.693771e-26
+             Ukraine      0.143011 4.592535e-01
+United Arab Emirates      0.989553 1.495930e-22
+      United Kingdom     -0.816760 6.519798e-08
+       United States      0.189292 3.253822e-01
+             Uruguay      0.712402 1.456332e-05
+           Venezuela      0.580259 1.208373e-03
+             Vietnam      0.991868 1.031071e-25
+              Zambia      0.886955 1.486094e-10
+            Zimbabwe      0.674089 6.093413e-05
