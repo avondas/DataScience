@@ -1,0 +1,18 @@
+{
+	"name": "Data Science Minor",
+	// ! python image
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+				// ? Python extensions
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-keymap",
+				"ms-toolsai.jupyter-renderers"
+            ]
+        }
+    },
+	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
+	"postCreateCommand": "pip install --user -r requirements.txt",
+	"remoteUser": "root"
+}
